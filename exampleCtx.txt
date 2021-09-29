@@ -1,0 +1,35 @@
+[
+{
+    update: {
+      update_id: 48291105,
+      message: {
+        message_id: 105,
+        from: [Object],
+        chat: [Object],
+        date: 1632691350,
+        text: 'asd'
+      }
+    },
+    tg: Telegram {
+      token: ' nou ',
+      response: undefined,
+      options: {
+        apiRoot: 'https://api.telegram.org',
+        apiMode: 'bot',
+        webhookReply: true,
+        agent: [Agent],
+        attachmentAgent: undefined
+      }
+    },
+    botInfo: {
+      id: 2008028902,
+      is_bot: true,
+      first_name: 'Bot_Pro',
+      username: 'eriklarre_bot',
+      can_join_groups: true,
+      can_read_all_group_messages: false,
+      supports_inline_queries: false
+    },
+    state: {}
+  }
+]
